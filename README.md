@@ -1,2 +1,2 @@
 # SzkoleniaBHP
-program do zarządzania szkoleniami BHP 
+Baza danych do zarządzania szkoleniami BHP do wykorzystania jako szkielet stworzenia swojego programu pomocnego w pracy
